@@ -11,7 +11,8 @@ const Education = () => {
           whileInView={{ opacity: 1, y: 0 }}
           className="mb-8 bg-gray-50 p-6 rounded-lg shadow-md"
         >
-          <h3 className="text-xl font-semibold text-gray-800 mb-2">Periodismo</h3>
+          <h3 className="text-xl font-semibold text-gray-800 mb-2">Licenciatura en ciencias de la comunicación</h3>
+          {/* <p className="text-gray-600">Filosofia y letras</p> */}
           <p className="text-gray-600">Actualmente cursando primer año</p>
         </motion.div>
 
