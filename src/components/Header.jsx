@@ -26,16 +26,16 @@ const Header = () => {
           <h1 className="text-4xl md:text-6xl font-bold mb-4 text-center">Mena Herrera Mauro Herman</h1>
           <p className="text-xl text-gray-300 mb-8">Estudiante de Periodismo | Profesional en Desarrollo</p>
           
-          <a
-            target="_blank"
+          <motion.a
+            href="../../public/cv-mauroMena.pdf"
+            download
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="flex items-center gap-2 bg-white text-gray-900 px-8 py-3 rounded-full hover:bg-gray-100 transition-colors font-semibold"
-            href="../../public/cv-mauroMena.pdf"
           >
             <FaDownload />
             Descargar CV
-          </a>
+          </motion.a>
         </div>
       </div>
     </motion.header>
