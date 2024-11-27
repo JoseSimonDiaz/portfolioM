@@ -17,7 +17,7 @@ const Header = () => {
             className="mb-8"
           >
             <img
-              src="../../public/imgperfil.jpg"
+              src="https://scontent.ftuc2-1.fna.fbcdn.net/v/t39.30808-6/441406625_3296981603939542_6666834702808830735_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF4BYpmBv3c8P1ngzy2OV0vKPu4zLLNyboo-7jMss3JuhenjzsatpAVIzbgvVjamx8sb4ATqEMgu6OKNfV1ArI4&_nc_ohc=zk2c3r2Bfo4Q7kNvgGIGWPL&_nc_zt=23&_nc_ht=scontent.ftuc2-1.fna&_nc_gid=AlrsuubOKLELd0cxRyl5Y7z&oh=00_AYDXWuF1zL0nXFliQxqcOb8Q5J9PWJLWIxgVp4RZY_oaig&oe=674C51ED"
               alt="Mauro Herman"
               className="w-48 h-48 rounded-full border-4 border-white shadow-lg"
             />
